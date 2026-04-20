@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bdl822qdllwvl"]
+
+[ext_resource type="Script" uid="uid://pt3nonl80tbi" path="res://sprite_2d.gd" id="1_f7cmv"]
+
+[node name="Sprite2D" type="Sprite2D" unique_id=1842717210]
+script = ExtResource("1_f7cmv")
